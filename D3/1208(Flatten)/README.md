@@ -1,4 +1,4 @@
-### D2 - 1208(Flatten)
+### D3 - 1208(Flatten)
 ___
 
 [링크](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
