@@ -1,4 +1,4 @@
-### D2 - 1206(1206(View))
+### D3 - 1206(1206(View))
 ___
 
 [링크](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do)
